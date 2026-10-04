@@ -1,4 +1,4 @@
-# 🐍 Python Problem Solving — Day 1
+# 🐍 Python Problem Solving 
 
 ## 1. Count Even Numbers
 
